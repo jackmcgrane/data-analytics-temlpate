@@ -1,2 +1,3 @@
-# data-analytics-temlpate
+# data-analytics-template
+
 data-analytics-template
